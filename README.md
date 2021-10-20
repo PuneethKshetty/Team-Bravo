@@ -1,5 +1,6 @@
 # Team-Bravo 
 Website which has been dedicated to my class backbenchers.
+<img src="teambravo.jpg"/>
 
 ## Introduction :
 This site is made just for fun :)
